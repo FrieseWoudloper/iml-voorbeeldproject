@@ -1,0 +1,1 @@
+In deze folder staan outputbestanden, zoals figuren, rapporten, Excel-spreadsheets, enzovoorts.

@@ -1,0 +1,1 @@
+In deze folder staan R objecten die tijdelijk opgeslagen zijn als .RDS bestand.
