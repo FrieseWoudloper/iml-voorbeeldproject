@@ -1,2 +1,1 @@
-# iml-voorbeeldproject
-Voorbeeldproject om de theorie en code uit het boek 'Interpretable Machine Learning' van Christoph Molnar uit te proberen.
+Deze repository bevat een voorbeeldproject om de theorie en code uit het boek [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) van Christoph Molnar uit te proberen.
